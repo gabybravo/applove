@@ -2,6 +2,13 @@
  * Clases reutilizables para el proyecto
  * (Aquí pueden ir las clases de tu grid)
  */
+ 
+header {
+  position: fixed;
+  background: white;
+  width: 100%;
+  top: 0;
+}
 
 .mb-0 {
   margin-bottom: 0;
@@ -14,3 +21,27 @@
 .text-uppercase {
   text-transform: uppercase;
 }
+
+.link {
+	font-weight: 700;
+	padding: 21px;
+	display: inline-block;
+}
+
+.logo {
+	float: right;
+}
+
+.menu {
+	padding: 14px 70px;
+	overflow: auto;
+}
+
+footer {
+	text-align: center;
+	height: 70px;
+	background-color: #373B47;
+	color: white;
+	padding-top: 7px;
+}
+
