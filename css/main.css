@@ -126,9 +126,18 @@ footer {
   text-align: center;
 }
 
+.container-work img {
+  margin-top: 63px;
+}
+
 .container-work h2 {
+  margin-top: 63px;
   font-size: 35px;
   letter-spacing: 2px;
+}
+
+.img-proyecto {
+  margin-top: 40px;
 }
 
 .name-producto {
